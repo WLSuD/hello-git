@@ -1,3 +1,3 @@
-print("new hello Git! wiht changes")
+print("HELLO GitHUB!")
 print("holis")
 print("sexto commit")
